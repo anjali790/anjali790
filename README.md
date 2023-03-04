@@ -28,3 +28,6 @@
 ### Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anjali790)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali790" alt="Views" /> </p>
