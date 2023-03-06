@@ -16,9 +16,16 @@
   <img src="https://komarev.com/ghpvc/?username=anjali790&style=flat-square&color=blue" alt=""/>
 </div>
  
- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!--  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
+</div> -->
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif?cid=ecf05e475gidi22ue1y1ri2keqsocexm4zq7ehsuvyy37kzs&rid=giphy.gif&ct=g" width="500" height="300"/>
 </div>
+
+
+
 
 <hr>
 
