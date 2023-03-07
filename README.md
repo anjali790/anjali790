@@ -9,9 +9,12 @@
   <a href="">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=light-pink" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://gitlab.com/anjali790">
+    <img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
   </a>
+<!--   <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
   </div>  
   <img src="https://komarev.com/ghpvc/?username=anjali790&style=flat-square&color=blue" alt=""/>
 </div>
