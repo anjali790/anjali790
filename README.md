@@ -27,9 +27,6 @@
   <img src="https://media0.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif?cid=ecf05e475gidi22ue1y1ri2keqsocexm4zq7ehsuvyy37kzs&rid=giphy.gif&ct=g" width="500" height="300"/>
 </div>
 
-
-
-
 <hr>
 
 ### :woman_technologist: About Me :
@@ -48,7 +45,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <div id="badges" align="left">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali790&show_icons=true&locale=en&theme=vision-friendly-dark" alt="anjali790" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali790&layout=compact&theme=vision-friendly-dark" alt="anjali790" /></p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali790&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
