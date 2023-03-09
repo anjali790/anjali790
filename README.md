@@ -30,7 +30,7 @@
 <hr>
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<!-- I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. -->
 - :telescope: I’m working as a Trainee and contributing to frontend for building web applications.
 
 - 💬 Ask me about Javascript and ReactJS.
