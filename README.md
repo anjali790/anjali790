@@ -58,4 +58,4 @@
 <code><img width="9%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
 ### :trophy: Github Trophies  :
-[![trophy](https://github-profile-trophy.vercel.app/?username=anjali790&theme=onedark))](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=anjali790&theme=gruvbox))](https://github.com/ryo-ma/github-profile-trophy)<br>
