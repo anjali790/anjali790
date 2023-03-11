@@ -59,3 +59,14 @@
 
 ### :trophy: Github Trophies  :
 [![trophy](https://github-profile-trophy.vercel.app/?username=anjali790&theme=gruvbox))](https://github.com/ryo-ma/github-profile-trophy)<br>
+
+### 📈 Activity Graph  :
+<!-- <h2 align='left'><i><a href="https://github.com/anjali790/github-readme-activity-graph">Activity Graph 📈</i></h2> -->
+<p align="center">
+<a href="https://github.com/anjali790/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anjali790&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/anjali790/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anjali790&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
